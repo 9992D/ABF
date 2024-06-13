@@ -1,0 +1,24 @@
+.modal {
+  position: fixed;
+  z-index: 1;
+}
+
+.modal_content {
+  background-color: white;
+  position: fixed;
+  right: 50px;
+  bottom: 50px;
+  padding: 20px;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+
+.close {
+  color: Black;
+  float: right;
+}
+
+.close:hover {
+  color: cyan;
+  cursor: pointer;
+}

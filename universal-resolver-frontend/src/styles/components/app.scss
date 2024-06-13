@@ -1,0 +1,12 @@
+@import 'drivers';
+@import 'heading';
+@import 'resolver';
+@import 'footer';
+
+#app {
+    padding: 40px;
+}
+
+#app, body {
+    background: #fafafa;
+}

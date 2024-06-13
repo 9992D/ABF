@@ -1,0 +1,9 @@
+node_modules/
+bower_components/
+dist/
+output/
+.project
+*.lock
+*.log
+/.idea/
+*.iml
